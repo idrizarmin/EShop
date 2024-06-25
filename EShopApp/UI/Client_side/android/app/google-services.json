@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289132135297",
+    "project_id": "onesignalpushnotificatio-26313",
+    "storage_bucket": "onesignalpushnotificatio-26313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289132135297:android:0530889f15455f55399e80",
+        "android_client_info": {
+          "package_name": "com.sinasys.e_commerce_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQVUZizYeLQoGvKrp_7YKKjLGumZaiCiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
